@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "786175923659",
+    "firebase_url": "https://bestt-a3559.firebaseio.com",
+    "project_id": "bestt-a3559",
+    "storage_bucket": "bestt-a3559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786175923659:android:c4ae33ab5d310901b2924e",
+        "android_client_info": {
+          "package_name": "com.learning.bestt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786175923659-umhecuvqtthio2ghiror1s71489jathn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learning.bestt",
+            "certificate_hash": "9852a2aa66c1aae5906d6710abfd3f8bad7ee92c"
+          }
+        },
+        {
+          "client_id": "786175923659-r2u80m4un44chv8lba3r0mu4ha3qv1rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2BDZl7ne8RGyr0ipNE1GPN8_sbwvjkBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786175923659-r2u80m4un44chv8lba3r0mu4ha3qv1rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
